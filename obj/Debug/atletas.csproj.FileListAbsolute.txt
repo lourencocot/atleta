@@ -1,0 +1,10 @@
+C:\Users\Lourenço\Desktop\escola\atletas\bin\Debug\atletas.exe.config
+C:\Users\Lourenço\Desktop\escola\atletas\bin\Debug\atletas.exe
+C:\Users\Lourenço\Desktop\escola\atletas\bin\Debug\atletas.pdb
+C:\Users\Lourenço\Desktop\escola\atletas\obj\Debug\atletas.csprojAssemblyReference.cache
+C:\Users\Lourenço\Desktop\escola\atletas\obj\Debug\atletas.Form1.resources
+C:\Users\Lourenço\Desktop\escola\atletas\obj\Debug\atletas.Properties.Resources.resources
+C:\Users\Lourenço\Desktop\escola\atletas\obj\Debug\atletas.csproj.GenerateResource.cache
+C:\Users\Lourenço\Desktop\escola\atletas\obj\Debug\atletas.csproj.CoreCompileInputs.cache
+C:\Users\Lourenço\Desktop\escola\atletas\obj\Debug\atletas.exe
+C:\Users\Lourenço\Desktop\escola\atletas\obj\Debug\atletas.pdb
